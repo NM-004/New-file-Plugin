@@ -1,0 +1,9 @@
+{
+	"id": "New-File-Plugin",
+	"name": "New-File-Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Creating new folder",
+	"author": "Enem Barjo",
+	"isDesktopOnly": false
+}
